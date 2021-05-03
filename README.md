@@ -1,6 +1,7 @@
 ## meal app flutter
 
-A new Flutter application.
+My meals app has a lot of food recipes and it is classified into many categories. You can add any recipe to your favorite list and you can filter the recipes up to your choice
+
 
 ## Getting Started
 
